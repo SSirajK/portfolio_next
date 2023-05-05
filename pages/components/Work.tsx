@@ -14,7 +14,7 @@ const Work: React.FC = () => {
                         </p>
                     </div>
                 </div>
-                <p className='py-6 md:pr-24 text-center'>//Check out some of my recent work</p>
+                <p className='py-6 md:pr-24 text-center'>Check out some of my recent work</p>
 
                 <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
                     {/* Cart Items */}

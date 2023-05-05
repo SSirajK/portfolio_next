@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCss3, faEnvira, faHtml5, faJsSquare, faNodeJs, faReact } from '@fortawesome/free-brands-svg-icons';
 import React from 'react';
+/* eslint-disable react/no-unescaped-entities */
 
 const Skills: React.FC = () => {
     return (
@@ -18,22 +19,23 @@ const Skills: React.FC = () => {
                     <br />
                     <div className="text-gray-300">
                         <p className="py-4 lg:ml-28">
-            //These are the technologies I've worked with
+                            These are the technologies I've worked with
                         </p>
                         <br />
                         <br />
-                        <p className="inline"> NodeJs</p>       |
-                        <p className="inline">HTML5</p>    |
+                        <p className="inline"> NodeJs</p>&nbsp;&nbsp;&nbsp;|
+                        <p className="inline">HTML5</p>&nbsp;&nbsp;&nbsp;|
                         <p className="inline">CSS3</p>
                         <br />
                         <br />
-                        <p className="inline"> MongoDb</p>      |
-                        <p className="inline">React</p>      |
+                        <p className="inline"> MongoDb</p>&nbsp;&nbsp;&nbsp;|
+                        <p className="inline">React</p>&nbsp;&nbsp;&nbsp;|
                         <p className="inline">JavaScript</p>
                         <br />
                         <br />
-                        <p className="inline">Animation with CSS</p> |
+                        <p className="inline">Animation with CSS</p>&nbsp;|
                         <p className="inline">Express JS</p>
+
                     </div>
                 </div>
                 <div className="stage-cube-cont md:ml-0 md:mt-0 mt-12 flex-1">
