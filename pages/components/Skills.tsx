@@ -23,17 +23,17 @@ const Skills: React.FC = () => {
                         </p>
                         <br />
                         <br />
-                        <p className="inline"> NodeJs</p>&nbsp;&nbsp;&nbsp;|
-                        <p className="inline">HTML5</p>&nbsp;&nbsp;&nbsp;|
+                        <p className="inline"> NodeJs</p>&nbsp;&nbsp;&nbsp;&nbsp;&emsp;|&nbsp;
+                        <p className="inline">HTML5</p>&nbsp;&nbsp;&nbsp;|&nbsp;
                         <p className="inline">CSS3</p>
                         <br />
                         <br />
-                        <p className="inline"> MongoDb</p>&nbsp;&nbsp;&nbsp;|
-                        <p className="inline">React</p>&nbsp;&nbsp;&nbsp;|
+                        <p className="inline"> MongoDb</p>&nbsp;&nbsp;&nbsp;|&nbsp;
+                        <p className="inline">React</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
                         <p className="inline">JavaScript</p>
                         <br />
                         <br />
-                        <p className="inline">Animation with CSS</p>&nbsp;|
+                        <p className="inline">Animation with CSS</p>&nbsp;&emsp;|&nbsp;
                         <p className="inline">Express JS</p>
 
                     </div>
